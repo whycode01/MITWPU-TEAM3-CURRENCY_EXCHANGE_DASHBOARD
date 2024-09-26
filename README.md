@@ -34,7 +34,8 @@ This project is a **Currency Exchange Dashboard** that allows users to analyze a
 ## Screenshots
 
 ### Currency Selection Interface
-![image](https://github.com/user-attachments/assets/e799db14-33cc-48e8-a215-f097cf7cdf3f)
+![WhatsApp Image 2024-09-26 at 09 08 45_48363b12](https://github.com/user-attachments/assets/9422fe43-bf8d-4769-933d-16d0e1192ae9)
+
 
 
 ### Exchange Rate Trend Graph
