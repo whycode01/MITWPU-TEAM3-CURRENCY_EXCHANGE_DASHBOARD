@@ -67,7 +67,7 @@ This project is a **Currency Exchange Dashboard** that allows users to analyze a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Currency-Exchange-Dashboard.git
+   git clone https://github.com/DeveshChandak1/MITWPU-TEAM3-CURRENCY_EXCHANGE_DASHBOARD.git
 
 
 
