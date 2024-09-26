@@ -52,7 +52,7 @@ This project is a **Currency Exchange Dashboard** that allows users to analyze a
 
 
 ### Risk Indicator and Volatility
-![image](https://github.com/user-attachments/assets/e0e1aae9-0382-4b6b-bec5-90e35420bf23)
+![WhatsApp Image 2024-09-26 at 09 13 37_5921fc88](https://github.com/user-attachments/assets/ad1d72f6-9c04-4af0-8351-caf101b5dbcb)
 
 
 ## Future Enhancements
