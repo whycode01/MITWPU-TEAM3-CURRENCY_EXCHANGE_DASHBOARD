@@ -39,15 +39,15 @@ This project is a **Currency Exchange Dashboard** that allows users to analyze a
 
 
 ### Exchange Rate Trend Graph
-![image](https://github.com/user-attachments/assets/4638f548-8514-43cf-8209-ded3bd6c62d8)
+![WhatsApp Image 2024-09-26 at 09 08 55_37d27efb](https://github.com/user-attachments/assets/b251b964-4dbf-4084-95a9-5b20d1fa3f38)
 
 
 ### Highest and Lowest Rates
-![image](https://github.com/user-attachments/assets/627dd2d6-32af-4958-a8ca-82aa22968e53)
+![WhatsApp Image 2024-09-26 at 09 09 37_18a35252](https://github.com/user-attachments/assets/9cac7f2c-4570-4a2a-9151-c0e19396afef)
 
 
 ### Custom Currency Basket
-![WhatsApp Image 2024-09-26 at 08 51 03_3f32f20b](https://github.com/user-attachments/assets/76ced02c-a9f6-4fc0-b35a-056878a9c4db)
+![WhatsApp Image 2024-09-26 at 09 08 31_d3731881](https://github.com/user-attachments/assets/4f7cde82-9477-4d79-97cc-a35bd685f395)
 
 
 
