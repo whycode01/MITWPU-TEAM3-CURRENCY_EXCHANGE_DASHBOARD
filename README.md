@@ -1,6 +1,13 @@
 # Currency Exchange Dashboard
 
 This project is a **Currency Exchange Dashboard** that allows users to analyze and compare exchange rates between two currencies. Users can visualize historical trends, calculate custom currency baskets, and assess volatility and risk levels for selected currency pairs.
+Team No.3
+Team Members:
+Devesh
+Diya
+Gaurav
+Harsh
+Krishna
 
 ## Features
 
@@ -14,6 +21,7 @@ This project is a **Currency Exchange Dashboard** that allows users to analyze a
 
 2. **Highest and Lowest Exchange Rates**
    - Displays the **highest** and **lowest** exchange rates for the selected currency pair during the chosen time period.
+   - **USD/EUR**
      - **Highest Rate**: 1.3823 (2014-03-31)
      - **Lowest Rate**: 1.0147 (2022-08-31)
 
